@@ -4,7 +4,7 @@
 My name is Nicholai Nissen and I'm a software developer. 
 
 ## 💻 Tech
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=efdeff)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=efdeff)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=efdeff)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=efdeff)
 ![](https://img.shields.io/badge/Code-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=efdeff)
