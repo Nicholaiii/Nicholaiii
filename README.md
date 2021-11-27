@@ -1,7 +1,7 @@
 <a href="https://nicholai.dev"><img src="banner.png" alt="drawing" width="100%"/></a>
 
 ### Hi there 👋
-My name is Nicholai Nissen and I'm a software developer. 
+My name is Nicholai Nissen and I'm a cutie.
 
 ## 💻 Tech
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=efdeff)
